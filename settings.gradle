@@ -1,0 +1,5 @@
+rootProject.name = 'springboot01-start'
+include 'springboot01-start-common'
+include 'springboot01-start-util'
+include 'springboot01-start-dao'
+include 'springboot01-start-service'
